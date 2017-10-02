@@ -7,7 +7,7 @@
 ## Team members
 
   - Mykhaylo Marfeychuk
-  - Joao Ramalho
+  - João Ramalho
 
 ## Project Description
 
@@ -19,15 +19,15 @@ Note: Currently the app is only a mockup version, not a complete working demo.
 
 ## How to build and run the project.
 
-To build you'll need to import the project(folder named "mycAR") into Unity 3D and build it to desired platform or you could just get this prebuilt apk.
+To build you'll need to import the project(folder named "mycAR") into Unity 3D and build it to desired platform or you could just get [this](https://github.com/Mika412/MOCKPIXEL063/raw/master/test.apk) prebuilt apk.
 
 You can test the app on these two trackers:
 
-![Alt text](https://www.smartusa.com/resources/img/offers/offer-cabriolet.jpg) ![Alt text](https://www.smartusa.com/resources/img/offers/offer-cabriolet.jpg)
+<img src="https://github.com/Mika412/MOCKPIXEL063/blob/master/project-screenshots/Tracker1.jpg" width="400"/><img src="https://github.com/Mika412/MOCKPIXEL063/blob/master/project-screenshots/Tracker2.jpg" width="400"/>
 
 # Screenshots
 
-![Alt text](https://www.smartusa.com/resources/img/offers/offer-cabriolet.jpg)
+<img src="https://github.com/Mika412/MOCKPIXEL063/blob/master/project-screenshots/img3.jpg" width="300"/><img src="https://github.com/Mika412/MOCKPIXEL063/blob/master/project-screenshots/img2.jpg" width="300"/><img src="https://github.com/Mika412/MOCKPIXEL063/blob/master/project-screenshots/img1.jpg" width="300"/>
 
 ## Improvements and other ideas
 
